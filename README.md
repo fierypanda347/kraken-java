@@ -1,3 +1,3 @@
 # Kraken
-## Student Analytics. Made Smarter.
+### Student Analytics. Made Smarter.
 
