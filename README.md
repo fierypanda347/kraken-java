@@ -1,2 +1,3 @@
-advait sux
+# Kraken
+## Student Analytics. Made Smarter.
 
