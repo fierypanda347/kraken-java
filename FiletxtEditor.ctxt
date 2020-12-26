@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=FiletxtEditor
+comment1.params=userpass
+comment1.target=void\ op(java.lang.String)
+comment2.params=
+comment2.target=boolean\ readFile()
+comment3.params=
+comment3.target=void\ writeToFile()
+comment4.params=replacementText
+comment4.target=void\ replacement(java.lang.String)
+numComments=5
